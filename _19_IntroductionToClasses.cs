@@ -16,7 +16,7 @@ namespace Dersler
      
       CONSTRUCTOR, SINIF adını alır, dönüş türü yoktur, tanımlanması zorunlu değildir(kendiliğinde bir tane boş kurulur.), aşırı yüklenebilirler.
       
-      DESTRUCTOR NEDİR?
+      DESTRUCTOR NEDİR? 
       Önüne ~ sembolü alarak sınıf adı ile aynı yazılır acces modifyer,dönüştürü olmaz, parametre almaz.
     */
     public class _19_IntroductionToCLASSes_Customer
